@@ -5,11 +5,11 @@ body{
 .start{
     font-family: 'Arial', sans-serif;
     background-color: azure;
-    color: darkblue;
+    color: purple;
 }
 
 img{
-    width: 200px;
-    border-radius: 50%;
-    border: 5px solid darkblue;
+    width: 300px;
+    border-radius: 25%;
+    border: 5px solid black;
 }
